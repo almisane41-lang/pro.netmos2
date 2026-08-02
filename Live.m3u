@@ -50,80 +50,80 @@ http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/51719.ts
 
 
 ##################################################
-# 📺 SECTION START: الاخبار
+# 📺 SECTION START: NEWS  لاخبـــار
 ##################################################
 
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="News: AL JAZEERA" tvg-logo="http://pro.netmos.ovh:6051/img/aljazeera.png" group-title="الاخبار",News: AL JAZEERA
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="News: AL JAZEERA" tvg-logo="http://pro.netmos.ovh:6051/img/aljazeera.png" group-title="NEWS  لاخبـــار",News: AL JAZEERA
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/228720.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="News: AL_JAZEERA" tvg-logo="http://pro.netmos.ovh:6051/img/aljazeera.png" group-title="الاخبار",News: AL_JAZEERA
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="News: AL_JAZEERA" tvg-logo="http://pro.netmos.ovh:6051/img/aljazeera.png" group-title="NEWS  لاخبـــار",News: AL_JAZEERA
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/2329.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="News: AL JAZEERA 2" tvg-logo="http://pro.netmos.ovh:6051/img/aljazeera.png" group-title="الاخبار",News: AL JAZEERA 2
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="News: AL JAZEERA 2" tvg-logo="http://pro.netmos.ovh:6051/img/aljazeera.png" group-title="NEWS  لاخبـــار",News: AL JAZEERA 2
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/233639.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="NEWS: Al JAZEERA MUBASHER" tvg-logo="http://pro.netmos.ovh:6051/img/aljazeeramubasher.png" group-title="الاخبار",NEWS: Al JAZEERA MUBASHER
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="NEWS: Al JAZEERA MUBASHER" tvg-logo="http://pro.netmos.ovh:6051/img/aljazeeramubasher.png" group-title="NEWS  لاخبـــار",NEWS: Al JAZEERA MUBASHER
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/3390.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="NEWS: Al JAZEERA MUBASHER 24" tvg-logo="http://pro.netmos.ovh:6051/img/aljazeera.png" group-title="الاخبار",NEWS: Al JAZEERA MUBASHER 24
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="NEWS: Al JAZEERA MUBASHER 24" tvg-logo="http://pro.netmos.ovh:6051/img/aljazeera.png" group-title="NEWS  لاخبـــار",NEWS: Al JAZEERA MUBASHER 24
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/233640.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="NEWS: AL ARABIA" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/News/Arabiya.png" group-title="الاخبار",NEWS: AL ARABIA
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="NEWS: AL ARABIA" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/News/Arabiya.png" group-title="NEWS  لاخبـــار",NEWS: AL ARABIA
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/2595.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="AL ARABIA PROGRAM" tvg-logo="https://shahid.ام بي سي.net/mediaObject/fbe4877f-fee1-4a31-ae41-31f4116824a1?height=auto&width=288&croppingPoint=&version=1&type=webp" group-title="الاخبار",AL ARABIA PROGRAM
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="AL ARABIA PROGRAM" tvg-logo="https://shahid.ام بي سي.net/mediaObject/fbe4877f-fee1-4a31-ae41-31f4116824a1?height=auto&width=288&croppingPoint=&version=1&type=webp" group-title="NEWS  لاخبـــار",AL ARABIA PROGRAM
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/233675.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="News: Al Arabiya Business" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/News/AL.ARABIYA.BUSINESS.png" group-title="الاخبار",News: Al Arabiya Business
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="News: Al Arabiya Business" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/News/AL.ARABIYA.BUSINESS.png" group-title="NEWS  لاخبـــار",News: Al Arabiya Business
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/74184.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="NEWS: S_K_Y News Arabic" tvg-logo="http://pro.netmos.ovh:6051/img/sky.news.arabia.png" group-title="الاخبار",NEWS: S_K_Y News Arabic
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="NEWS: S_K_Y News Arabic" tvg-logo="http://pro.netmos.ovh:6051/img/sky.news.arabia.png" group-title="NEWS  لاخبـــار",NEWS: S_K_Y News Arabic
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/10259.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="NEWS: FRANCE 24" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/News/france24.png" group-title="الاخبار",NEWS: FRANCE 24
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="NEWS: FRANCE 24" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/News/france24.png" group-title="NEWS  لاخبـــار",NEWS: FRANCE 24
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/11278.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="NEWS:  RT ARABIC" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/arabic_nwes/rt.png" group-title="الاخبار",NEWS:  RT ARABIC
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="NEWS:  RT ARABIC" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/arabic_nwes/rt.png" group-title="NEWS  لاخبـــار",NEWS:  RT ARABIC
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/10601.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="NEWS: ALARABY TV" tvg-logo="http://pro.netmos.ovh:6051/img/Alaraby_TV.png" group-title="الاخبار",NEWS: ALARABY TV
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="NEWS: ALARABY TV" tvg-logo="http://pro.netmos.ovh:6051/img/Alaraby_TV.png" group-title="NEWS  لاخبـــار",NEWS: ALARABY TV
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/11279.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="NEWS: ALARABY 2 TV" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/News/Alaraby.2tv.png" group-title="الاخبار",NEWS: ALARABY 2 TV
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="NEWS: ALARABY 2 TV" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/News/Alaraby.2tv.png" group-title="NEWS  لاخبـــار",NEWS: ALARABY 2 TV
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/42950.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="NEWS: CNBC ARABIA" tvg-logo="http://pro.netmos.ovh:6051/img/CNBC.png" group-title="الاخبار",NEWS: CNBC ARABIA
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="NEWS: CNBC ARABIA" tvg-logo="http://pro.netmos.ovh:6051/img/CNBC.png" group-title="NEWS  لاخبـــار",NEWS: CNBC ARABIA
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/11286.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="NEWS: BBC ARABIA" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/News/bbc.arabic.png" group-title="الاخبار",NEWS: BBC ARABIA
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="NEWS: BBC ARABIA" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/News/bbc.arabic.png" group-title="NEWS  لاخبـــار",NEWS: BBC ARABIA
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/11284.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="NEWS: AL HURRA" tvg-logo="http://pro.netmos.ovh:7355/images/051b8b0f98cafa830c31bdd4ea4a6112.png" group-title="الاخبار",NEWS: AL HURRA
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="NEWS: AL HURRA" tvg-logo="http://pro.netmos.ovh:7355/images/051b8b0f98cafa830c31bdd4ea4a6112.png" group-title="NEWS  لاخبـــار",NEWS: AL HURRA
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/3436.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="NEWS: AL EKHBARIA HD" tvg-logo="http://pro.netmos.ovh:6051/img/alekhbariya.png" group-title="الاخبار",NEWS: AL EKHBARIA HD
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="NEWS: AL EKHBARIA HD" tvg-logo="http://pro.netmos.ovh:6051/img/alekhbariya.png" group-title="NEWS  لاخبـــار",NEWS: AL EKHBARIA HD
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/11280.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="NEWS: TRT Arabic" tvg-logo="http://pro.netmos.ovh:6051/img/TRT.ARABIA.png" group-title="الاخبار",NEWS: TRT Arabic
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="NEWS: TRT Arabic" tvg-logo="http://pro.netmos.ovh:6051/img/TRT.ARABIA.png" group-title="NEWS  لاخبـــار",NEWS: TRT Arabic
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/11281.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="NEWS: Asharq" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/News/news.Asharq.png" group-title="الاخبار",NEWS: Asharq
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="NEWS: Asharq" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/News/news.Asharq.png" group-title="NEWS  لاخبـــار",NEWS: Asharq
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/17052.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="NEWS: AL HADATH" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/News/news.live.hadath.png" group-title="الاخبار",NEWS: AL HADATH
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="NEWS: AL HADATH" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/News/news.live.hadath.png" group-title="NEWS  لاخبـــار",NEWS: AL HADATH
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/17053.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="NEWS: فلسطين Live TV" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/News/فلسطين.livetv.png" group-title="الاخبار",NEWS: فلسطين Live TV
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="NEWS: فلسطين Live TV" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/News/فلسطين.livetv.png" group-title="NEWS  لاخبـــار",NEWS: فلسطين Live TV
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/42951.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="NEWS: AL MANAR" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/News/Al_Manar.png" group-title="الاخبار",NEWS: AL MANAR
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="NEWS: AL MANAR" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/News/Al_Manar.png" group-title="NEWS  لاخبـــار",NEWS: AL MANAR
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/65431.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="NEWS: AL GHAD" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/News/ALGHAD.png" group-title="الاخبار",NEWS: AL GHAD
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="NEWS: AL GHAD" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/News/ALGHAD.png" group-title="NEWS  لاخبـــار",NEWS: AL GHAD
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/73974.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="NEWS: Al Sharqyia News" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/News/AL.العراقIA.NEWS.png" group-title="الاخبار",NEWS: Al Sharqyia News
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="NEWS: Al Sharqyia News" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/News/AL.IRAQ العـــراقIA.NEWS.png" group-title="NEWS  لاخبـــار",NEWS: Al Sharqyia News
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/73975.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="ALHIWAR HD News" tvg-logo="" group-title="الاخبار",ALHIWAR HD News
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="ALHIWAR HD News" tvg-logo="" group-title="NEWS  لاخبـــار",ALHIWAR HD News
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/230872.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="AL NAJAH NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTztnhfR-L319D2hijG__tY-_0znWm9gt4fkw&s" group-title="الاخبار",AL NAJAH NEWS
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="AL NAJAH NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTztnhfR-L319D2hijG__tY-_0znWm9gt4fkw&s" group-title="NEWS  لاخبـــار",AL NAJAH NEWS
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/233642.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="NEWS: AL ALAM" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/News/ALALAM.NEWS.png" group-title="الاخبار",NEWS: AL ALAM
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="NEWS: AL ALAM" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/News/ALALAM.NEWS.png" group-title="NEWS  لاخبـــار",NEWS: AL ALAM
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/73976.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="NEWS: Al Qahera News" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/News/Al.Qahera.News.png" group-title="الاخبار",NEWS: Al Qahera News
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="NEWS: Al Qahera News" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/News/Al.Qahera.News.png" group-title="NEWS  لاخبـــار",NEWS: Al Qahera News
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/73978.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="NEWS: Echourouk News" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/News/ECHOUROUK-NEWS.png" group-title="الاخبار",NEWS: Echourouk News
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="NEWS: Echourouk News" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/News/ECHOUROUK-NEWS.png" group-title="NEWS  لاخبـــار",NEWS: Echourouk News
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/73980.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="NEWS: Almasira" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/News/almasirah.png" group-title="الاخبار",NEWS: Almasira
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="NEWS: Almasira" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/News/almasirah.png" group-title="NEWS  لاخبـــار",NEWS: Almasira
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/74089.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="NEWS: Elsharq Tv" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/News/El_Sharq_New.png" group-title="الاخبار",NEWS: Elsharq Tv
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="NEWS: Elsharq Tv" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/News/El_Sharq_New.png" group-title="NEWS  لاخبـــار",NEWS: Elsharq Tv
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/74090.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="NEWS: ALJAZEERA DOC" tvg-logo="http://pro.netmos.ovh:6051/img/aljazeeradocumentary.png" group-title="الاخبار",NEWS: ALJAZEERA DOC
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="NEWS: ALJAZEERA DOC" tvg-logo="http://pro.netmos.ovh:6051/img/aljazeeradocumentary.png" group-title="NEWS  لاخبـــار",NEWS: ALJAZEERA DOC
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/2324.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="NEWS: Syria News" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/News/Al.Ikhbariya.png" group-title="الاخبار",NEWS: Syria News
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="NEWS: Syria News" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/News/Al.Ikhbariya.png" group-title="NEWS  لاخبـــار",NEWS: Syria News
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/183523.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="i-news.tv" tvg-logo="https://i-news.tv/_next/image?url=https%3A%2F%2Finews.fra1.digitaloceanspaces.com%2Finews%2Finews%2Fnavbar_logo%2F750feab7-3f3a-49c6-b0bb-4c940fd83dd3.png&w=256&q=75" group-title="الاخبار",i-news.tv
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="i-news.tv" tvg-logo="https://i-news.tv/_next/image?url=https%3A%2F%2Finews.fra1.digitaloceanspaces.com%2Finews%2Finews%2Fnavbar_logo%2F750feab7-3f3a-49c6-b0bb-4c940fd83dd3.png&w=256&q=75" group-title="NEWS  لاخبـــار",i-news.tv
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/233765.ts
 
 ##################################################
-# 🛑 SECTION END: الاخبار
+# 🛑 SECTION END: NEWS  لاخبـــار
 ##################################################
 
 
@@ -800,7 +800,7 @@ http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/230813.ts
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/230814.ts
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Libya Sport 1 HD" tvg-logo="http://pro.netmos.ovh:7355/images/ebbcc89a9d49cc4538dfa3c75bfec15a.png" group-title="رياضة عربية",Libya Sport 1 HD
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/230820.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="العراقia Sport HD" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="رياضة عربية",العراقia Sport HD
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="IRAQ العـــراقia Sport HD" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="رياضة عربية",IRAQ العـــراقia Sport HD
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/230815.ts
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Sharjah Sport HD" tvg-logo="https://sba.net.ae/uploads/19/Jan/24/32ef5753d51bf08a78a06935576556347a6e65746a66464c44675a6e4445.png" group-title="رياضة عربية",Sharjah Sport HD
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/230817.ts
@@ -1017,7 +1017,7 @@ http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/182040.ts
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/712.ts
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="ام بي سي PERSIA ᴴᴰ" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/ام بي سي/ام بي سي.persia.png" group-title="ام بي سي",ام بي سي PERSIA ᴴᴰ
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/14191.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="ام بي سي العراق ᴴᴰ" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/ام بي سي/ام بي سي.العراق.png" group-title="ام بي سي",ام بي سي العراق ᴴᴰ
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="ام بي سي IRAQ العـــراق ᴴᴰ" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/ام بي سي/ام بي سي.IRAQ العـــراق.png" group-title="ام بي سي",ام بي سي IRAQ العـــراق ᴴᴰ
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/3597.ts
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="ام بي سي Bollywood ᴴᴰ" tvg-logo="http://pro.netmos.ovh:6051/img/tsawer/ام بي سي/ام بي سي.bollywood.png" group-title="ام بي سي",ام بي سي Bollywood ᴴᴰ
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/694.ts
@@ -1642,204 +1642,204 @@ http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/212681.ts
 
 
 ##################################################
-# 📺 SECTION START: العراق
+# 📺 SECTION START: IRAQ العـــراق
 ##################################################
 
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Imam Hussein 1" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",Imam Hussein 1
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Imam Hussein 1" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",Imam Hussein 1
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221389.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="AFAK HD" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",AFAK HD
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="AFAK HD" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",AFAK HD
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221391.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="AL  MAWSLEYA" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",AL  MAWSLEYA
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="AL  MAWSLEYA" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",AL  MAWSLEYA
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221392.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="AL AHAD HD" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",AL AHAD HD
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="AL AHAD HD" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",AL AHAD HD
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221393.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="AL ANBAR" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",AL ANBAR
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="AL ANBAR" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",AL ANBAR
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221394.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Al Anwar 1" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",Al Anwar 1
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Al Anwar 1" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",Al Anwar 1
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221395.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Al Anwar 2" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",Al Anwar 2
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Al Anwar 2" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",Al Anwar 2
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221396.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Al Aqila TV" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",Al Aqila TV
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Al Aqila TV" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",Al Aqila TV
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221397.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Al Ayam TV" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",Al Ayam TV
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Al Ayam TV" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",Al Ayam TV
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221398.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="AL FALLUJA TV" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",AL FALLUJA TV
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="AL FALLUJA TV" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",AL FALLUJA TV
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221399.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="AL GHADEER" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",AL GHADEER
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="AL GHADEER" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",AL GHADEER
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221400.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Al Ghadeer TV" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",Al Ghadeer TV
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Al Ghadeer TV" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",Al Ghadeer TV
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221401.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="AL ITEJAH TV" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",AL ITEJAH TV
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="AL ITEJAH TV" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",AL ITEJAH TV
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221403.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Al Janoubia العراق" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",Al Janoubia العراق
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Al Janoubia IRAQ العـــراق" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",Al Janoubia IRAQ العـــراق
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221404.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Al Kawthar tv" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",Al Kawthar tv
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Al Kawthar tv" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",Al Kawthar tv
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221405.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="AL MAAREF" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",AL MAAREF
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="AL MAAREF" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",AL MAAREF
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221406.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Al Mawsleya" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",Al Mawsleya
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Al Mawsleya" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",Al Mawsleya
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221407.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Al Mustakila" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",Al Mustakila
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Al Mustakila" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",Al Mustakila
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221408.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Al Naeem TV" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",Al Naeem TV
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Al Naeem TV" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",Al Naeem TV
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221409.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Al Nojaba TV" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",Al Nojaba TV
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Al Nojaba TV" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",Al Nojaba TV
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221411.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Al Qamar" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",Al Qamar
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Al Qamar" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",Al Qamar
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221412.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Al Rabiaa العراق" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",Al Rabiaa العراق
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Al Rabiaa IRAQ العـــراق" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",Al Rabiaa IRAQ العـــراق
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221413.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Al Rafidain TV" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",Al Rafidain TV
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Al Rafidain TV" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",Al Rafidain TV
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221414.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="AL RAFIDEN" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",AL RAFIDEN
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="AL RAFIDEN" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",AL RAFIDEN
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221415.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="AL RASHEED" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",AL RASHEED
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="AL RASHEED" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",AL RASHEED
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221416.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Al Shaaer TV" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",Al Shaaer TV
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Al Shaaer TV" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",Al Shaaer TV
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221417.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="AL SHARQIYA HD" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",AL SHARQIYA HD
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="AL SHARQIYA HD" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",AL SHARQIYA HD
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221418.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="AL SHARQIYA SD" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",AL SHARQIYA SD
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="AL SHARQIYA SD" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",AL SHARQIYA SD
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221419.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="AL SUMARIA HD" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",AL SUMARIA HD
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="AL SUMARIA HD" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",AL SUMARIA HD
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221420.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="ALFORAT HD" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",ALFORAT HD
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="ALFORAT HD" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",ALFORAT HD
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221422.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Altaghier" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",Altaghier
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Altaghier" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",Altaghier
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221424.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="ANB" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",ANB
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="ANB" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",ANB
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221425.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="AQILA TV" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",AQILA TV
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="AQILA TV" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",AQILA TV
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221426.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="ASIA TV" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",ASIA TV
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="ASIA TV" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",ASIA TV
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221427.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Baghdadiya TV" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",Baghdadiya TV
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Baghdadiya TV" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",Baghdadiya TV
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221428.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="DIJLAH HD" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",DIJLAH HD
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="DIJLAH HD" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",DIJLAH HD
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221429.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="DIJLAH TARAB" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",DIJLAH TARAB
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="DIJLAH TARAB" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",DIJLAH TARAB
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221430.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Dijlah Tarab TV" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",Dijlah Tarab TV
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Dijlah Tarab TV" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",Dijlah Tarab TV
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221431.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="DIJLAH ZAMAN" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",DIJLAH ZAMAN
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="DIJLAH ZAMAN" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",DIJLAH ZAMAN
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221432.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="FUTURE العراق" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",FUTURE العراق
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="FUTURE IRAQ العـــراق" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",FUTURE IRAQ العـــراق
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221433.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="HONA  BAGHDAD" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",HONA  BAGHDAD
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="HONA  BAGHDAD" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",HONA  BAGHDAD
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221434.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="I News HD" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",I News HD
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="I News HD" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",I News HD
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221435.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="IMAM HUSSEIN 2" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",IMAM HUSSEIN 2
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="IMAM HUSSEIN 2" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",IMAM HUSSEIN 2
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221437.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="العراق 24 H D" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",العراق 24 H D
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="IRAQ العـــراق 24 H D" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",IRAQ العـــراق 24 H D
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221438.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="العراق 24 HD" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",العراق 24 HD
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="IRAQ العـــراق 24 HD" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",IRAQ العـــراق 24 HD
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221439.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="العراق NOW" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",العراق NOW
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="IRAQ العـــراق NOW" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",IRAQ العـــراق NOW
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221440.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="العراقi Edu" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",العراقi Edu
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="IRAQ العـــراقi Edu" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",IRAQ العـــراقi Edu
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221441.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="العراقia Entertainment" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",العراقia Entertainment
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="IRAQ العـــراقia Entertainment" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",IRAQ العـــراقia Entertainment
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221442.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="العراقIA NEWS HD" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",العراقIA NEWS HD
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="IRAQ العـــراقIA NEWS HD" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",IRAQ العـــراقIA NEWS HD
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221443.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="العراقIA SPORT SD" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",العراقIA SPORT SD
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="IRAQ العـــراقIA SPORT SD" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",IRAQ العـــراقIA SPORT SD
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221444.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="العراقia Turkuman" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",العراقia Turkuman
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="IRAQ العـــراقia Turkuman" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",IRAQ العـــراقia Turkuman
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221446.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="العراقIA TV" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",العراقIA TV
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="IRAQ العـــراقIA TV" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",IRAQ العـــراقIA TV
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221447.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="KARBALA  TV" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",KARBALA  TV
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="KARBALA  TV" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",KARBALA  TV
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221449.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Karbala TV" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",Karbala TV
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Karbala TV" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",Karbala TV
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221450.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Marjaeyat 2" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",Marjaeyat 2
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Marjaeyat 2" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",Marjaeyat 2
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221451.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="ام بي سي العراق FHD" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",ام بي سي العراق FHD
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="ام بي سي IRAQ العـــراق FHD" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",ام بي سي IRAQ العـــراق FHD
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221453.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="NRT HD" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",NRT HD
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="NRT HD" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",NRT HD
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221454.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Salahaden TV" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",Salahaden TV
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Salahaden TV" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",Salahaden TV
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221455.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="SAMARRA  HD" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",SAMARRA  HD
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="SAMARRA  HD" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",SAMARRA  HD
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221456.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Saout Al Aqila" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",Saout Al Aqila
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Saout Al Aqila" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",Saout Al Aqila
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221457.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Shabab العراق Sport 1 HD" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",Shabab العراق Sport 1 HD
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Shabab IRAQ العـــراق Sport 1 HD" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",Shabab IRAQ العـــراق Sport 1 HD
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221458.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Shams Baghdad" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",Shams Baghdad
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Shams Baghdad" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",Shams Baghdad
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221459.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Shams TV" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",Shams TV
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Shams TV" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",Shams TV
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221460.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Sharqiya News HD" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",Sharqiya News HD
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Sharqiya News HD" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",Sharqiya News HD
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221461.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Shehab TV" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",Shehab TV
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Shehab TV" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",Shehab TV
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221462.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Suroyo TV" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",Suroyo TV
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Suroyo TV" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",Suroyo TV
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221463.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="ZAGROS TV" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="العراق",ZAGROS TV
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="ZAGROS TV" tvg-logo="http://pro.netmos.ovh:7355/images/f691c7e426db215eec5811d50406678b.png" group-title="IRAQ العـــراق",ZAGROS TV
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221465.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Alrabiaa sport 1." tvg-logo="" group-title="العراق",Alrabiaa sport 1.
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Alrabiaa sport 1." tvg-logo="" group-title="IRAQ العـــراق",Alrabiaa sport 1.
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221704.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Alrabiaa sport 2." tvg-logo="" group-title="العراق",Alrabiaa sport 2.
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Alrabiaa sport 2." tvg-logo="" group-title="IRAQ العـــراق",Alrabiaa sport 2.
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221705.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Alrabiaa sport +1." tvg-logo="" group-title="العراق",Alrabiaa sport +1.
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Alrabiaa sport +1." tvg-logo="" group-title="IRAQ العـــراق",Alrabiaa sport +1.
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221706.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Alrabiaa sport +2." tvg-logo="" group-title="العراق",Alrabiaa sport +2.
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Alrabiaa sport +2." tvg-logo="" group-title="IRAQ العـــراق",Alrabiaa sport +2.
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221707.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Alrabiaa Quran." tvg-logo="" group-title="العراق",Alrabiaa Quran.
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Alrabiaa Quran." tvg-logo="" group-title="IRAQ العـــراق",Alrabiaa Quran.
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221708.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Alrabiaa Movie." tvg-logo="" group-title="العراق",Alrabiaa Movie.
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Alrabiaa Movie." tvg-logo="" group-title="IRAQ العـــراق",Alrabiaa Movie.
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221709.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Alrabiaa Series." tvg-logo="" group-title="العراق",Alrabiaa Series.
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Alrabiaa Series." tvg-logo="" group-title="IRAQ العـــراق",Alrabiaa Series.
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221710.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Alrabiaa variety." tvg-logo="" group-title="العراق",Alrabiaa variety.
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Alrabiaa variety." tvg-logo="" group-title="IRAQ العـــراق",Alrabiaa variety.
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221711.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Alrabiaa Geo." tvg-logo="" group-title="العراق",Alrabiaa Geo.
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Alrabiaa Geo." tvg-logo="" group-title="IRAQ العـــراق",Alrabiaa Geo.
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221712.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name=" NJOOM ALRABIAA." tvg-logo="" group-title="العراق", NJOOM ALRABIAA.
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name=" NJOOM ALRABIAA." tvg-logo="" group-title="IRAQ العـــراق", NJOOM ALRABIAA.
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221713.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Alrabiaa Musica." tvg-logo="" group-title="العراق",Alrabiaa Musica.
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Alrabiaa Musica." tvg-logo="" group-title="IRAQ العـــراق",Alrabiaa Musica.
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221714.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Nahrin" tvg-logo="" group-title="العراق",Nahrin
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Nahrin" tvg-logo="" group-title="IRAQ العـــراق",Nahrin
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221715.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Al Hadath العراق" tvg-logo="" group-title="العراق",Al Hadath العراق
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Al Hadath IRAQ العـــراق" tvg-logo="" group-title="IRAQ العـــراق",Al Hadath IRAQ العـــراق
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221716.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name=" Afaq TV ✦" tvg-logo="" group-title="العراق", Afaq TV ✦
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name=" Afaq TV ✦" tvg-logo="" group-title="IRAQ العـــراق", Afaq TV ✦
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221717.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Al Masra" tvg-logo="" group-title="العراق",Al Masra
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Al Masra" tvg-logo="" group-title="IRAQ العـــراق",Al Masra
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221718.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="ifilm Arabic" tvg-logo="" group-title="العراق",ifilm Arabic
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="ifilm Arabic" tvg-logo="" group-title="IRAQ العـــراق",ifilm Arabic
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221719.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Al Fallojah " tvg-logo="" group-title="العراق",Al Fallojah 
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Al Fallojah " tvg-logo="" group-title="IRAQ العـــراق",Al Fallojah 
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221720.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Al awla " tvg-logo="" group-title="العراق",Al awla 
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Al awla " tvg-logo="" group-title="IRAQ العـــراق",Al awla 
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221721.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Al Huraa " tvg-logo="" group-title="العراق",Al Huraa 
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Al Huraa " tvg-logo="" group-title="IRAQ العـــراق",Al Huraa 
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221722.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Al Ahd العراق TV" tvg-logo="" group-title="العراق",Al Ahd العراق TV
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Al Ahd IRAQ العـــراق TV" tvg-logo="" group-title="IRAQ العـــراق",Al Ahd IRAQ العـــراق TV
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221723.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Al Baghdadia TV ✦" tvg-logo="" group-title="العراق",Al Baghdadia TV ✦
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Al Baghdadia TV ✦" tvg-logo="" group-title="IRAQ العـــراق",Al Baghdadia TV ✦
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221724.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Salahaden" tvg-logo="" group-title="العراق",Salahaden
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Salahaden" tvg-logo="" group-title="IRAQ العـــراق",Salahaden
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221726.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Al Etejah" tvg-logo="" group-title="العراق",Al Etejah
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Al Etejah" tvg-logo="" group-title="IRAQ العـــراق",Al Etejah
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221728.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Al taghier " tvg-logo="" group-title="العراق",Al taghier 
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Al taghier " tvg-logo="" group-title="IRAQ العـــراق",Al taghier 
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221729.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Al shaaer " tvg-logo="" group-title="العراق",Al shaaer 
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Al shaaer " tvg-logo="" group-title="IRAQ العـــراق",Al shaaer 
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221730.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Imam Ali" tvg-logo="" group-title="العراق",Imam Ali
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Imam Ali" tvg-logo="" group-title="IRAQ العـــراق",Imam Ali
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221732.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Imam Hussein " tvg-logo="" group-title="العراق",Imam Hussein 
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Imam Hussein " tvg-logo="" group-title="IRAQ العـــراق",Imam Hussein 
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221733.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Al Ayam " tvg-logo="" group-title="العراق",Al Ayam 
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Al Ayam " tvg-logo="" group-title="IRAQ العـــراق",Al Ayam 
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221731.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Turkmene" tvg-logo="" group-title="العراق",Turkmene
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Turkmene" tvg-logo="" group-title="IRAQ العـــراق",Turkmene
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/221727.ts
 
 ##################################################
-# 🛑 SECTION END: العراق
+# 🛑 SECTION END: IRAQ العـــراق
 ##################################################
 
 
@@ -4858,7 +4858,7 @@ http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/233009.ts
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/233010.ts
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Bénin" tvg-logo="https://images.squarespace-cdn.com/content/v1/5a3ab5f6dc2b4a7388db93d5/1568338071325-M2VIZPAXEFMJP8011BN6/doc+channel+logo+black.jpg" group-title="AR| DOCUMENTARY",Bénin
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/233011.ts
-#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="العراق" tvg-logo="https://images.squarespace-cdn.com/content/v1/5a3ab5f6dc2b4a7388db93d5/1568338071325-M2VIZPAXEFMJP8011BN6/doc+channel+logo+black.jpg" group-title="AR| DOCUMENTARY",العراق
+#EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="IRAQ العـــراق" tvg-logo="https://images.squarespace-cdn.com/content/v1/5a3ab5f6dc2b4a7388db93d5/1568338071325-M2VIZPAXEFMJP8011BN6/doc+channel+logo+black.jpg" group-title="AR| DOCUMENTARY",IRAQ العـــراق
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/233012.ts
 #EXTINF:-1 tvg-chno="" tvg-id="" tvg-name="Tunisie" tvg-logo="https://images.squarespace-cdn.com/content/v1/5a3ab5f6dc2b4a7388db93d5/1568338071325-M2VIZPAXEFMJP8011BN6/doc+channel+logo+black.jpg" group-title="AR| DOCUMENTARY",Tunisie
 http://pro.netmos.ovh:7355/live/UDJPRCRA1L055B/Ep27yiiwbb56mjkl/233013.ts
